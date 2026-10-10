@@ -7,15 +7,11 @@
   padding: 92px 50px 96px;
 }
 
-.header__menu {}
-
 .header__list {
   display: flex;
   gap: 32px;
   list-style: circle;
 }
-
-.header__item {}
 
 .header__item_no-bullet {
   list-style: none;
@@ -222,8 +218,6 @@
   margin: 120px 24px 0;
 }
 
-.about__column {}
-
 .about__logo {
   display: flex;
   justify-content: center;
@@ -265,7 +259,7 @@
   margin-top: 180px;
   padding-left: 50px;
   padding-right: 50px;
-  padding-bottom: 82px;
+  padding-bottom: 82px; 
 }
 
 .footer__menu {
@@ -292,10 +286,6 @@
   justify-self: end;
   list-style: none;
 }
-
-.footer__social-item {}
-
-.footer__social-link {}
 
 .footer__social-icon {
   display: block;
